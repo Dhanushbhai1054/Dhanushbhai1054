@@ -9,10 +9,11 @@ I am currently pursuing my **Master’s in Data Science & Analytics at EPITA Par
 I have worked on several data analytics projects, including:  
 - **[Bank Loan Data Analysis](https://github.com/Dhanushbhai1054/Bank-Loan-Analysis)** – SQL & Tableau  
 - **[Pizza Sales Analysis](https://github.com/Dhanushbhai1054/Pizza-sales-analysis)** – Excel, SQL & Tableau  
-- **[HR Data Analysis](https://github.com/Dhanushbhai1054/HR-data-Analysis)** – SQL & Power BI  
+- **[HR Data Analysis](https://github.com/Dhanushbhai1054/HR-data-Analysis)** – SQL & Power BI
+- **[E-Commerce sales analysis](https://github.com/Dhanushbhai1054/Ecommerce-data-analysis)** -Python Jupyternotebook
 
 ### 🛠 Skills  
-- **Data Analytics:** SQL | Tableau | Power BI | Excel | Python (Pandas, NumPy)  
+- **Data Analytics:** SQL | Tableau | Power BI | Excel | Python (Pandas, NumPy & Plotly)  
 - **Visualization:** Interactive Dashboards & Reports  
 - **Business Intelligence:** Data Cleaning | Storytelling with Data  
 
