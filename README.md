@@ -44,7 +44,6 @@ My projects demonstrate my expertise in **data science** and **data analytics**,
 - **Key Achievements**:
   - Achieved an **R² score of 0.99** with Linear Regression for accurate shrinkage prediction.
   - Developed a **Plotly-based dashboard** to monitor KPIs like total sales revenue and shrinkage per product, validated using **Google Sheets** and **Microsoft Excel**.
-  - Used **Docker** to ensure reproducible data processing pipelines.
   - Identified top shrinkage products to optimize inventory management.
 - **Technologies**: Python (Pandas, Scikit-learn, Plotly), Matplotlib, Google Sheets, Microsoft Excel, Docker, Jupyter Notebook
 - **Impact**: Enabled retailers to reduce financial losses and enhance stock management through predictive analytics.
@@ -99,8 +98,8 @@ My projects demonstrate my expertise in **data science** and **data analytics**,
 
 I’m excited to explore internship opportunities in **Data Science**, **Data Analytics**, or **Business Intelligence**!
 
-- **Email**: [dhanushmiriyala1054@gmail.com](mailto:dhanushmiriyala1054@gmail.com)
-- **LinkedIn**: [Venkata Sai Dhanush Miriyala](https://www.linkedin.com/in/venkata-sai-dhanush-miriyala/) *(Update with your actual LinkedIn URL)*
+- **Email**: [venkata-sai-dhanush.miriyala@epita.fr](mailto:venkata-sai-dhanush.miriyala@epita.fr)
+- **LinkedIn**: [Venkata Sai Dhanush Miriyala](https://www.linkedin.com/in/miriyala/) *(Update with your actual LinkedIn URL)*
 - **GitHub**: [Dhanushbhai1054](https://github.com/Dhanushbhai1054)
 - **Portfolio**: [Explore My Work](https://github.com/Dhanushbhai1054)
 
