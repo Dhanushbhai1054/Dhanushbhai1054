@@ -99,7 +99,7 @@ My projects demonstrate my expertise in **data science** and **data analytics**,
 I’m excited to explore internship opportunities in **Data Science**, **Data Analytics**, or **Business Intelligence**!
 
 - **Email**: [venkata-sai-dhanush.miriyala@epita.fr](mailto:venkata-sai-dhanush.miriyala@epita.fr)
-- **LinkedIn**: [Venkata Sai Dhanush Miriyala](https://www.linkedin.com/in/miriyala/) *(Update with your actual LinkedIn URL)*
+- **LinkedIn**: [Venkata Sai Dhanush Miriyala](https://www.linkedin.com/in/miriyala/) ]
 - **GitHub**: [Dhanushbhai1054](https://github.com/Dhanushbhai1054)
 - **Portfolio**: [Explore My Work](https://github.com/Dhanushbhai1054)
 
