@@ -27,7 +27,7 @@ Hi, I'm **Venkata Sai Dhanush Miriyala**, an aspiring **Data Scientist** and **D
 
 ## EXPERIENCE 
 
-### Data Analyst Intern - KultureHire Tech Pvt Ltd
+### [Data Analyst Intern - KultureHire Tech Pvt Ltd](https://kh-internship-certificates.s3.ap-south-1.amazonaws.com/venkata-sai-dhanush-miriyala_Data%20Analytics%20for%20understanding%20career%20aspirations_internship_letter.pdf).
 
 #### Project: Analysis of Generation Z's career aspirations  
 
