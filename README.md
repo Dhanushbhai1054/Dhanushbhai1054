@@ -25,6 +25,20 @@ Hi, I'm **Venkata Sai Dhanush Miriyala**, an aspiring **Data Scientist** and **D
 
 ---
 
+## EXPERIENCE 
+
+### Data Analyst Intern - KultureHire Tech Pvt Ltd
+
+#### Project: Analysis of Generation Z's career aspirations  
+
+- **Used the 5W1H methodology to structure the analysis: Who are the respondents (Gen Z & managers), What are their aspirations, Why there is a gap, How to address it, When these aspirations evolve, and Where the divergences are most marked.
+- **Standardized, cleaned, and prepared raw survey data to ensure its quality and consistency before analysis.
+- **Developed key KPIs (mission-values alignment, managerial expectations, career priorities) to measure gaps and identify critical areas.
+- **Designed interactive dashboards with Excel and Power BI, tailored to managers and the HR team to clearly visualize divergences in aspirations.
+- **Wrote complex SQL queries to extract relevant data subsets and highlight strategic insights.
+- **Delivered data-driven recommendations to bridge the gap between young talent's expectations and employers' proposals (e.g., communication, flexibility, meaningful work).
+- **Deliverables used in strategic reviews with HR and management to adapt recruitment and retention policies.
+
 ## 📊 Featured Projects
 
 My projects demonstrate my expertise in **data science** and **data analytics**, combining advanced modeling, scalable data pipelines, and compelling visualizations to deliver actionable business insights. Below are my key projects:
