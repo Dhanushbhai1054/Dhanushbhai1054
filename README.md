@@ -43,7 +43,19 @@ Hi, I'm **Venkata Sai Dhanush Miriyala**, an aspiring **Data Scientist** and **D
 
 My projects demonstrate my expertise in **data science** and **data analytics**, combining advanced modeling, scalable data pipelines, and compelling visualizations to deliver actionable business insights. Below are my key projects:
 
-### 1. [E-Commerce Customer Segmentation with Snowflake and Data Science](https://github.com/Dhanushbhai1054/E--Commerce-Customer-Segmentation-with-Snowflake-and-Data-Science)
+
+###  [Orly Car Parks Customer Calls Analysis & Forecasting](https://github.com/Dhanushbhai1054/Orly-Car-Parks-Customer-Calls-Analysis)
+- **Description**: Conducted an end-to-end analysis of synthetic customer call data (~10,000 calls over 30 days) from Orly Car Parks to identify avoidable (“polluting”) calls, uncover call patterns, and forecast future call volumes. The project combined **Python**, **SQL**, **PostgreSQL**, **ARIMA forecasting**, and **Power BI dashboards** to deliver actionable insights.
+- **Key Achievements**:
+  - Identified that **40% of calls were avoidable**, mainly related to information requests and payment issues.
+  - Found that **locations P1–P3 generated ~75% of calls**, with P1 alone accounting for nearly 30%.
+  - Detected peak load of **379 calls on Sep 13**, with weekends representing ~34% of all calls.
+  - Built a **time-series forecast (ARIMA (1,1,1))** predicting stabilization of call volume at ~334 calls/day.
+  - Created an interactive **Power BI dashboard** for monitoring call patterns, hotspots, and forecasts.
+- **Technologies**: Python (Pandas, Statsmodels, Matplotlib), SQL, PostgreSQL, ARIMA, Power BI, Jupyter Notebook
+- **Impact**: Delivered recommendations such as upgrading payment systems, improving signage, and optimizing weekend staffing—strategies that could significantly reduce avoidable calls and improve operational efficiency.
+
+###  [E-Commerce Customer Segmentation with Snowflake and Data Science](https://github.com/Dhanushbhai1054/E--Commerce-Customer-Segmentation-with-Snowflake-and-Data-Science)
 - **Description**: Developed a customer segmentation model for an e-commerce dataset (Kaggle) using **Snowflake Snowpark**, **Python**, and **Power BI**. Applied **RFM analysis** and **K-Means clustering** (Silhouette Score: 0.569) to segment customers into four groups, enabling targeted marketing strategies.
 - **Key Achievements**:
   - Identified high-value customers (Cluster 3: ~$42,177.93 average spend) for personalized campaigns.
@@ -62,7 +74,7 @@ My projects demonstrate my expertise in **data science** and **data analytics**,
 - **Technologies**: Python (Pandas, Scikit-learn, Plotly), Matplotlib, Google Sheets, Microsoft Excel, Docker, Jupyter Notebook
 - **Impact**: Enabled retailers to reduce financial losses and enhance stock management through predictive analytics.
 
-### 3. [Pizza Sales Analysis](https://github.com/Dhanushbhai1054/Pizza-sales-analysis)
+###  [Pizza Sales Analysis](https://github.com/Dhanushbhai1054/Pizza-sales-analysis)
 - **Description**: Analyzed pizza sales data using **SQL**, **PostgreSQL**, **Google Sheets**, and **Microsoft Excel** to uncover trends and optimize business performance.
 - **Key Achievements**:
   - Created an **Excel dashboard** with bar, line, and pie charts to visualize daily/hourly sales trends, top/bottom sellers, and category distribution.
@@ -70,7 +82,7 @@ My projects demonstrate my expertise in **data science** and **data analytics**,
 - **Technologies**: SQL, PostgreSQL, Google Sheets, Microsoft Excel (Pivot Tables, Charts)
 - **Impact**: Provided actionable insights to improve menu offerings and operational efficiency.
 
-### 4. [HR Data Analysis](https://github.com/Dhanushbhai1054/HR-data-Analysis)
+###  [HR Data Analysis](https://github.com/Dhanushbhai1054/HR-data-Analysis)
 - **Description**: Analyzed HR data using **SQL**, **PostgreSQL**, and **Power BI** to uncover insights into employee demographics, turnover, and recruitment metrics.
 - **Key Achievements**:
   - Visualized key metrics like age distribution, gender breakdown, and turnover rates (Auditing: highest; Marketing: lowest).
@@ -79,7 +91,7 @@ My projects demonstrate my expertise in **data science** and **data analytics**,
 - **Technologies**: SQL, PostgreSQL, Power BI, Google Sheets, Microsoft Excel
 - **Impact**: Empowered HR teams with data-driven insights for talent retention and recruitment.
 
-### 5. [Bank Loan Analysis](https://github.com/Dhanushbhai1054/Bank-Loan-Analysis)
+### [Bank Loan Analysis](https://github.com/Dhanushbhai1054/Bank-Loan-Analysis)
 - **Description**: Analyzed bank loan performance using **SQL**, **PostgreSQL**, and **Tableau** to track applications, funded amounts, and repayments.
 - **Key Achievements**:
   - Developed three **Tableau dashboards** (Summary, Overview, Details) with KPIs like average interest rate, DTI ratio, and loan status.
@@ -88,7 +100,7 @@ My projects demonstrate my expertise in **data science** and **data analytics**,
 - **Technologies**: SQL, PostgreSQL, Tableau, Google Sheets, Microsoft PowerPoint
 - **Impact**: Improved loan decision-making and strategy refinement for the bank.
 
-### 6. [E-Commerce Sales Analysis](https://github.com/Dhanushbhai1054/Ecommerce-data-analysis)
+###  [E-Commerce Sales Analysis](https://github.com/Dhanushbhai1054/Ecommerce-data-analysis)
 - **Description**: Performed a comprehensive e-commerce sales and profit analysis using **Python**, **Plotly**, **Google Sheets**, and **Microsoft Excel**.
 - **Key Achievements**:
   - Identified **Technology** as the top-performing category and **November** as the highest sales month.
